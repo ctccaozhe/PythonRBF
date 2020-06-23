@@ -1,2 +1,2 @@
-# RBF_NN_Python
-Python code of RBF neural network classification model
+# RBF_CS_Python
+RBF神经网络分类模型的Python代码
